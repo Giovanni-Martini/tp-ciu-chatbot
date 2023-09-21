@@ -6,6 +6,6 @@ Este proyecto simula una conversación con un chatbot, aunque la API de intelige
 Construcción de interfaces de usuario
 ## Profesores:
 Gabriel Molina y Nicolás Rios
-##Alumno:
+## Alumno:
 Giovanni Martini
-##Universidad Nacional de Hurlingham
+## Universidad Nacional de Hurlingham

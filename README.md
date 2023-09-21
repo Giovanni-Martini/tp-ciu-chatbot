@@ -1,8 +1,11 @@
 # Trabajo práctico CIU - Chatbot - Giovanni Martini
 
-Este proyecto todavía no tiene implementado el uso del chatbot, pero simula una conversación con el bot.
+Este proyecto simula una conversación con un chatbot, aunque la API de inteligencia artificial todavía no está implementada. 
 
-Materia: Construcción de interfaces de usuario
-Profesores: Gabriel Molina y Nicolás Rios
-Alumno: Giovanni Martini
-Universidad Nacional de Hurlingham
+## Materia:
+Construcción de interfaces de usuario
+## Profesores:
+Gabriel Molina y Nicolás Rios
+##Alumno:
+Giovanni Martini
+##Universidad Nacional de Hurlingham
